@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <View style={styles.style1}> 
         <Image
-          source={require('./assets/vongtron.png')}
+          source={require('./assets/Ellipse8.png')}
           style={{width:'100px',height:'100px'}}
         ></Image>
       </View>
